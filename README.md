@@ -5,9 +5,10 @@
 
 I'm a **Beginner Full Stack Developer** passionate about web development and creating meaningful projects. With experience in **marketing and web design**, I combine creativity and functionality to craft simple, user-friendly solutions. I'm also deeply curious about how technology can make life easier and more beautiful. 🌸
 
-I am currently working on <a href="https://github.com/julia-martynovych/clinica-app"> Vet Clinic "Patitas Felices"</a><br>
+I am currently working on <a href="https://github.com/mariaprez32/atrapa-un-michi"> Website "Catch a kitty" </a><br>
 <br>
 Completed Projects:<br> 
+<a href="https://github.com/julia-martynovych/clinica-app"> Vet Clinic "Patitas Felices"</a><br>
 <a href="https://github.com/julia-martynovych/game-oop"> Game: Space Cat</a><br>
 <a href="https://github.com/Noemi1977/toquen-DOM">Web Site: Music School "Clave de Sol"</a><br>
 
