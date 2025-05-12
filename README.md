@@ -5,8 +5,7 @@
 
 I'm a **Beginner Full Stack Developer** passionate about web development and creating meaningful projects. With experience in **marketing and web design**, I combine creativity and functionality to craft simple, user-friendly solutions. I'm also deeply curious about how technology can make life easier and more beautiful. 🌸
 
-I am currently working on <a href="https://github.com/HackSisters"> Reborn Market - hackathon winning project </a><br>
-
+I am currently working on <a href="https://github.com/HackSisters"> Reborn Market - hackathon winning project </a>
 <br>
 Completed Projects:<br> 
 <a href="https://github.com/mariaprez32/atrapa-un-michi"> Website "Catch a kitty" </a><br>
