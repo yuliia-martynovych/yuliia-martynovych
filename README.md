@@ -1,11 +1,13 @@
-<h1> 🌿 Hi, I'm Julia Martynovych!</h1>
+<h1> 🌿 Hi, I'm Yuliia Martynovych!</h1>
 <div align="center"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3lodjNiN2VkeHJxZXpkN2dzaTlhdDd3Y3YxcHhqMW5kazIzN2hzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p3EZklu2En7IstEpN6/giphy.gif" align="center" width="200" /> </div>
 
 ### ✨ About Me
 
 I'm a **Beginner Full Stack Developer** passionate about web development and creating meaningful projects. With experience in **marketing and web design**, I combine creativity and functionality to craft simple, user-friendly solutions. I'm also deeply curious about how technology can make life easier and more beautiful. 🌸
 
-I am currently working on <a href="https://github.com/mariaprez32/atrapa-un-michi"> Website "Catch a kitty" </a><br>
+I am currently working on <a href="https://github.com/HackSisters"> Reborn Market - hackathon winning project </a><br>
+
+<a href="https://github.com/mariaprez32/atrapa-un-michi"> Website "Catch a kitty" </a><br>
 <br>
 Completed Projects:<br> 
 <a href="https://github.com/julia-martynovych/clinica-app"> Vet Clinic "Patitas Felices"</a><br>
