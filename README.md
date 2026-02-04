@@ -5,7 +5,7 @@
 
 I'm a **Beginner Full Stack Developer** passionate about web development and creating meaningful projects. With experience in **marketing and UI/UX design**, I combine creativity and functionality to craft simple, user-friendly solutions. I'm also deeply curious about how technology can make life easier and more beautiful. 🌸
  
-I am currently working at an AI Agency.
+I am currently working at an AI Agency.<br>
 <br>
 Completed study Projects:<br> 
 <a href="https://github.com/Final-Project-CookFlow"> CookFlow - app for finding recipes </a><br>
